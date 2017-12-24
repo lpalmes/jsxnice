@@ -2,7 +2,7 @@
 'use strict';
 
 var List        = require("bs-platform/lib/js/list.js");
-var Nice        = require("nice/src/nice.js");
+var Nice        = require("bs-nice/src/nice.js");
 var Block       = require("bs-platform/lib/js/block.js");
 var React       = require("react");
 var ReasonReact = require("reason-react/src/ReasonReact.js");
